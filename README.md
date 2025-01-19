@@ -51,8 +51,9 @@ deep-learning-specialization/
 │   │   ├──Logistic_Regression_with_a_Neural_Network_mindset_solved.ipynb
 │   │   ├── datasets/
 │   │   └── lr_utils.py
+```
 
-## How to Use
+### How to Use
 
 1. **Clone the repository**:
    ```bash
